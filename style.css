@@ -1,0 +1,63 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:500);
+@import url(https://fonts.googleapis.com/css?family=Muli);
+
+/* title section */
+
+body {
+	font-family: 'Muli', sans-serif;
+}
+
+/* Nav */
+.navbar.navbar-inverse.navbar-fixed-top {
+	font-size: 17px;
+	border: none;
+	background-color: rgba(13,13,13,.7);
+}
+
+
+
+.jumbotron {
+	background-image: url("Drip_Coffee_Bangkok.jpg");
+	background-position: center;
+	background-size: cover;
+	padding: 160px 0;
+	color: #F7FAFE;
+	margin: 0;
+}
+
+#title {
+	margin-top: 140px;
+	font-family: Muli, sans-serif;
+}
+
+ /*end title section */
+
+/* mission section */
+#mission {
+	background-color: #323232;
+	color: #F7FAFE;
+	text-align: center;
+	font-size: 1.7em;
+	font-family: 'Raleway', sans-serif;
+	padding: 60px;
+}
+
+#description {
+	background-color: #A2DED0;
+	font-size: 16px; 
+	padding-top: 3%;
+}
+
+.footer {
+	background-color: #D64541;
+	color: #F7FAFE;
+	padding: 20px 0 15px 15px;
+}
+
+.footer a {
+	color: #F7FAFE;
+}
+
+.row.footer {
+	padding: 20px 15px 15px 15px;
+}
